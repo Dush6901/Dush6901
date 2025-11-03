@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Максим! 👋
+Начинающий фронтенд-разработчик
 
-<!--
-**Dush6901/Dush6901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здесь я делюсь своими учебными и пет-проектами, чтобы показать свой путь в освоении веб-разработки.
 
-Here are some ideas to get you started:
+## 🚀 Мои навыки и технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Основы:** HTML5, CSS3, JavaScript (ES6+)
+*   **Методологии и препроцессоры:** БЭМ, SCSS/SASS
+*   **Фреймворки и библиотеки:** React (изучаю), Vue.js (знаком)
+*   **Инструменты:** Git, GitHub, Figma, VS Code, NPM
+*   **Навыки:** Адаптивная и кроссбраузерная верстка, работа с макетами
+
+## 📈 Моя статистика на GitHub
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dush6901&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dush6901&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+## 📂 Мои проекты
+
+| Проект | Описание | Технологии |
+| :--- | :--- | :--- |
+| **[DragonCave](ссылка)** | Текстовая игра, основанная на случайных числах. | `JavaScript` |
+
+## 📫 Как со мной связаться
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Dushenka6699)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/dushenka69)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikus8888@yandex.ru)
+
+---
+
+⭐️ Спасибо, что заглянули в мой профиль!
