@@ -26,6 +26,7 @@
 
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
+| **[DatingGet ](https://github.com/Dush6901/datingget)** | Веб-приложение для знакомств, с mock-данными | `Nuxt 4` `Vue 3` `TypeScript ` `Tailwind CSS 4` `Git` `Vercel ` |
 | **[DragonCave](https://github.com/Dush6901/DragonCave)** | Текстовая игра, основанная на случайных числах. | `JavaScript` |
 | **[Pizza Maker](https://github.com/Dush6901/Pizza-Maker)** | Создай пиццу своей мечты! | `HTML` `CSS` `JavaScript` |
 
